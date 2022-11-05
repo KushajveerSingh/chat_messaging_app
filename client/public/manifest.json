@@ -1,0 +1,11 @@
+{
+  "name": "Chat Messaging App",
+  "short_name": "chat_messaging_app",
+  "description": "",
+  "theme_color": "#42a5f5",
+  "background_color": "#42a5f5",
+  "display": "standalone",
+  "orientation": "landscape",
+  "scope": "/",
+  "start_url": "/"
+}
