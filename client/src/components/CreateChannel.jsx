@@ -32,6 +32,8 @@ const CreateChannel = ({ createType, setIsCreating }) => {
       {createType === 'team' && (
         <ChannelNameInput channelName={channelName} setChannelName={setChannelName} />
       )}
+
+      <UserList />
     </div>
   );
 };
