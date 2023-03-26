@@ -25,11 +25,17 @@ Once signed up, you can easily login providing your username and password.
 
 **Note**:- I am using the free version of Render to deploy the server and due to this reason, sometimes you will get a Connection error. Generally, waiting for some time, or pressing the logout button and signing in should solve this problem.
 
+https://user-images.githubusercontent.com/24699564/227748631-5f86f1c5-f801-4239-9c34-6f34806a912e.mp4
+
 ### Create channels and invite people
 Create your own channel and invite people to talk about things you are interested in. You can use emojis, reactions, GIF, edit messages, reply in threads.
 
+https://user-images.githubusercontent.com/24699564/227748644-3d066032-9b41-4be7-aa75-b278acf774d6.mp4
+
 ### Direct messages and search for people/channels
 You can also send direct messages to people and search for people.
+
+https://user-images.githubusercontent.com/24699564/227748648-015dc8b8-57a9-4265-ade2-9f597f1c0ae2.mp4
 
 ## Dependencies
 - [React](https://reactjs.org/)
